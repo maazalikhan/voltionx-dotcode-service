@@ -70,8 +70,8 @@ Customers sign in once and see everything they own: SDK licence, Live Scanner ac
 
 There is no online checkout. The project is sold only through direct contact: email or WhatsApp. To ask about it, contact me by either of these:
 
-- **Email:** your-email@example.com
-- **WhatsApp:** +92 3XX XXXXXXX
+- **Email:** maaz.ak92@gmail.com
+- **WhatsApp:** +923122720832
 
 Please mention what you plan to use it for, and I will get back to you.
 
